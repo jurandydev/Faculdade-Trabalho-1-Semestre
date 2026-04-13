@@ -1,10 +1,6 @@
-#Integrantes do grupo:
 
-#Jurandy dos Santos Neto  RGM:47042575
-#Lucas Yudi Ikiura        RGM:47609893
-#Heloysa Lombardi Leme    RGM:46989412
-#Felipe Moura Cardoso     RGM:47441089
-#Gabriel Gabrigna Queiroz RGM:46903992
+
+#Jurandy dos Santos Neto  
 
 #Primeiramente solicitarei o nome do gestor e logo após solicitare o mês de referência.
 
