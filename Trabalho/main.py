@@ -1,7 +1,5 @@
 
-
 #Jurandy dos Santos Neto  
-
 #Primeiramente solicitarei o nome do gestor e logo após solicitare o mês de referência.
 
 nome_gestor = input('Digite o seu nome: ')
